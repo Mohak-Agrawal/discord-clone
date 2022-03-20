@@ -1,5 +1,5 @@
 # Discord Ui Clone
-> Live demo [https://discordclone-60237.web.app](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [here](https://discordclone-60237.web.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Technologies Used
 - React.js
